@@ -1,4 +1,5 @@
-
+# Brick Blast
+2D Game Using C++ Library SFML
 ## Prerequisites
 
 Install SFML in Linux.
@@ -17,18 +18,11 @@ sudo apt-get install libsfml-dev
 ```
 
 ## Screenshots
-![Test Image 1](Screenshots/home.png)
-![Test Image 2](Screenshots/1.png)
+![](Screenshots/game.png)
+![](Screenshots/over.png)
+![](Screenshots/win.png)
 
-![Test Image 3](Screenshots/2.png)
 
-![Test Image 4](Screenshots/3.png)
-
-![Test Image 5](Screenshots/4.png)
-
-![Test Image 6](Screenshots/5.png)
-
-![Test Image 7](Screenshots/6.png)
 
 
 ## Contributing
